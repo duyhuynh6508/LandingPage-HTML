@@ -66,8 +66,8 @@ nav a{
 }
 
 .entry-content{
-    background-color: #003bde;
-    background-image: linear-gradient(160deg,#003bde 0%,#58d0ff 100%);
+    background-color: #267871;
+    background-image: linear-gradient(304deg, rgb(212, 244, 223) 0%, #267871 74%);
     margin:0;
     color:#fff;
     padding: 2em;
@@ -260,7 +260,7 @@ nav a{
 }
 
 .contact{
-    background-color: #012780;
+    background-color: #267871;
     background-image: url('./images/2hex.png');
     background-size:100% auto;
     background-repeat: no-repeat;
